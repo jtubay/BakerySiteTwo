@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif ;
+    background: #eee;
+}
+.home{
+    background: black;
+    height: 100vh;
+}
+.about{
+    background: white;
+    height: 100vh;
+}
+.gallery{
+    background: black;
+    height: 100vh;
+}
+.order{
+    background: white;
+    height: 100vh;
+}
